@@ -1,18 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
+Built a simple landing page for Data Analytics company using React and TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/mayankrai001/DataAnalyticsLandingPage/assets/100416993/2bfa7de4-b8b0-46c0-9479-f22aef0ab344)
 
-Currently, two official plugins are available:
+![image](https://github.com/mayankrai001/DataAnalyticsLandingPage/assets/100416993/272d05fc-08a2-4ae2-80ab-18dc4988d025)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# DataAnalyticsLandingPage
-Built a landing page for the DataAnalyticsWebsite using React and TailwindCss
->>>>>>> d267addd8b1c16f1de7fad1446322bcd36a5b138
-=======
-# DataAnalyticsLandingPage
-Built a landing page for the DataAnalyticsWebsite using React and TailwindCss
->>>>>>> d267addd8b1c16f1de7fad1446322bcd36a5b138
+![image](https://github.com/mayankrai001/DataAnalyticsLandingPage/assets/100416993/d9bb35bc-eddb-417f-ba5b-067357849fe0)
+
+![image](https://github.com/mayankrai001/DataAnalyticsLandingPage/assets/100416993/d39b5a46-adda-4389-9336-8c33ad588441)
+
+![image](https://github.com/mayankrai001/DataAnalyticsLandingPage/assets/100416993/06d2ef12-7800-42bd-b4f4-b63335765099)
+
+
+
+
